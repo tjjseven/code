@@ -1,0 +1,1 @@
+function t(){return{htmlSettings:{headSettings:"",htmlClass:"",bodyClass:"",htmlType:"html"},styleSettings:{defaultCss:0,links:[""],styleType:"css"},scriptSettings:{scripts:[""]},projectInfo:{name:"",description:""},saveSettings:{autoSave:!0,autoRun:!0,autoFormat:!0},editorSetting:{layout:1,indentSize:2,indentType:"tab"}}}export{t as getDefaultSettings};
