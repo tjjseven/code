@@ -1,1 +1,0 @@
-import{a0 as o,r,a1 as n}from"./BN4ta8Vf.js";import{getDefaultSettings as a}from"./Bov0vCts.js";const f=o("editorCodeParams",()=>{const e=r({}),t=r(a());return{runIframeOptions:e,preSettings:t,setRunIframeOptions:s=>{e.value=s},setPreSettings:s=>{t.value=s},resetEditorCodeParams:()=>{e.value={},t.value=a()}}},{persist:{storage:n.localStorage}});export{f as u};
